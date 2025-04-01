@@ -3,3 +3,7 @@ https://docs.google.com/presentation/d/1ZOOzGf8OtORJ6aJBSPr_APiotxavB_hxzHHL3nEI
 
 Trello board :
 https://trello.com/b/meDyvH33/beauxbatons
+
+Link to Historial API air pollution:
+https://openweathermap.org/api/air-pollution
+
